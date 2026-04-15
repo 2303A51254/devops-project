@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel Management System
 
 A full-stack MERN hotel booking website with:
@@ -52,3 +53,6 @@ Seed data creates:
 - Online payment is a placeholder flow in v1.
 - Inventory is tracked by room type quantity.
 - If the database is empty, the server seeds starter content automatically.
+=======
+# devops-project
+>>>>>>> c3a8c1b721d4f82b30625f1c37b31958f75e350f
